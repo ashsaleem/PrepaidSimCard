@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PrepaidSimCard.vcxproj" Id="35f542b6-651a-411f-8964-74c631b0039f" />
+</Solution>
